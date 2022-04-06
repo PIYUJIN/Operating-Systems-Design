@@ -15,4 +15,6 @@ write ***"java -version"*** in terminal to check version of java
 
 download the SimpleShell.java
 
-run this code in 
+run this code in *intellij* or *ubuntu*
+
++ when "jsh>" command is run, enter the input
